@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  isbn: MyString
+  integer: MyString
+  title: MyString
+  string: MyString
+  stock: MyString
+  integer: MyString
+
+two:
+  isbn: MyString
+  integer: MyString
+  title: MyString
+  string: MyString
+  stock: MyString
+  integer: MyString
